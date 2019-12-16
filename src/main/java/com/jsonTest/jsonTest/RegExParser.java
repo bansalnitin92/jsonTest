@@ -1,11 +1,13 @@
 package com.jsonTest.jsonTest;
 
-import com.jayway.jsonpath.JsonPath;
+
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.HashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import com.jayway.jsonpath.JsonPath;
 
 public class RegExParser {
 
